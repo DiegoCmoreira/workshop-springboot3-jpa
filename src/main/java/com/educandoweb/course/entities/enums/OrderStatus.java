@@ -2,7 +2,7 @@
 
 public enum OrderStatus {
 
-	WAINTING_PAYMENT(1),
+	WANTING_PAYMENT(1),
 	PAID(2),
 	SHIPPED(3),
 	DELIVERED(4),
